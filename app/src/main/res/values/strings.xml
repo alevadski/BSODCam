@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BSOD Cam</string>
+    <string name="choose_photo">Выбрать фото</string>
+    <string name="operate">Преобразовать</string>
+    <string name="choose_source">Выберите источник</string>
+    <string name="from_camera">Сделать фото</string>
+    <string name="from_gallery">Выбрать существующее</string>
+    <string name="cant_open_photo">Не удалось открыть фотографию</string>
+    <string name="share">Поделиться</string>
+
+    <string-array name="photo_sources">
+        <item>@string/from_camera</item>
+        <item>@string/from_gallery</item>
+    </string-array>
+</resources>
